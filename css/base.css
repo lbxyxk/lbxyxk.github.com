@@ -1,0 +1,15 @@
+*{padding:0; margin:0; font-size:12px;}
+h1,h2,h3,h4,h5,h6,b,strong{ font-weight:normal;}
+li{ list-style:none;}
+body,ul,ol,li,dl,dt,dd{ padding:0; margin:0;}
+i,em{ font-style:normal;}
+a{ text-decoration:none; color:#000;}
+img{ display:block;}/*或img{ vertical-align:top;}*/
+a img{ border:0;}
+table{ border-collapse:collapse;}
+th,td{ border:1px solid #ccc; padding:0;}
+input,textarea,select{ outline:none;}
+.clearfix:after{ display:block; content:''; clear:both;}
+.clearfix{zoom:1;}
+.fl{ float:left;}
+.fr{ float:right;}
